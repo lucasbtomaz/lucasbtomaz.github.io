@@ -5,16 +5,16 @@ Curriculo construido no curso de _Git e GitHub_ na [Geek University](www.geekuni
 
 ---
 #### Conteúdo
-> Git
-> GitHub
-> Curriculo Online
+> Git,
+> GitHub,
+> Curriculo Online,
 > Markdown, README e Gist
 ---
 #### Referências
 
-[Curso de] [Git e Github]
+Curso de [Git e Github]
 
-[media](https://geekuniversity.com.br/media/cursos/git-e-github-essencial-para-o-desenvolvedor.thumb.jpg)
+
 
 
 
